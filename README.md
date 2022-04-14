@@ -43,10 +43,10 @@
 <img src="https://img.shields.io/badge/-Agile-181717?style=flat-square"/>
 
 ## 🌏Distribution flow
-<img src="/uploads/dece80eb61973bbb0b4969663edb9e66/그림3.png" width="70%" height="70%">
+<img src="https://user-images.githubusercontent.com/61926875/163314712-0405bc56-bf3d-4545-9bae-227df9a9ba20.png" width="70%" height="70%">
 
 ## ⛓Blockchain Main Process
-<img src="/uploads/15bef069a3a45b02c44706bf5420a7e6/블체.png" width="70%" height="70%">
+<img src="https://user-images.githubusercontent.com/61926875/163314817-52143f64-d907-4fd1-8032-53983ffc283d.png" width="70%" height="70%">
 
 
 
